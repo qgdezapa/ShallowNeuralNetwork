@@ -1,1 +1,1 @@
-"# ShallowNeuralNetwork" 
+This is an implementation of a 2 layered neural network based on Andrew Ng's Deep Learning Specialization. 
